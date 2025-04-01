@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Creating bugs since 2020<br>🏗️ Currently working as a Freelancer <br>🎯 Goals: Startup worth $1,000,000</p>
+<p align="left">✨ Creating bugs since 2020<br>🏗️ Currently available for work <br>🎯 Goals: Startup worth $1,000,000</p>
 
 ###
 
