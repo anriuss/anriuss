@@ -29,6 +29,8 @@
   <img width="4">
   <img src="https://skillicons.dev/icons?i=js" height="40" alt="javascript logo"  />
   <img width="4">
+  <img src="https://skillicons.dev/icons?i=bun" height="40" alt="bun logo" />
+  <img width="4">
   <img src="https://skillicons.dev/icons?i=nodejs" height="40" alt="nodejs logo"  />
   <img width="4">
   <img src="https://skillicons.dev/icons?i=express" height="40" alt="express logo"  />
@@ -44,6 +46,10 @@
   <img src="https://skillicons.dev/icons?i=netlify" height="40" alt="netlify logo"  />
   <img width="4">
   <img src="https://skillicons.dev/icons?i=vercel" height="40" alt="vercel logo"  />
+  <img width="4">
+  <img src="https://skillicons.dev/icons?i=supabase" height="40" alt="supabase logo"  />
+  <img width="4">
+  <img src="https://skillicons.dev/icons?i=sentry" height="40" alt="sentry logo"  />
   <img width="4">
   <img src="https://skillicons.dev/icons?i=github" height="40" alt="github logo"  />
   <img width="4">
